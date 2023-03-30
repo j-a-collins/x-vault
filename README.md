@@ -3,7 +3,7 @@
 
 This repository contains the source code for an interactive web application to explore and visualise UFO sightings data. The data is sourced from the National UFO Reporting Center (NUFORC), an organization dedicated to the collection and documentation of UFO sighting reports.
 
-The dashboard provides a variety of visualisations, including a map of sightings, bar charts displaying the most common sighting locations and UFO shapes, and a line chart showing the total number of sightings over time. Users can interact with the dashboard using a slider to filter the data by year and a dropdown to change the bar chart visualisation.
+The dashboard provides a variety of visualisations, including a map of sightings, bar charts displaying the most common sighting locations and UFO shapes, and a line chart showing the total number of sightings over time. Users can interact with the dashboard using a slider to filter the data by year and a dropdown to change the bar chart visualisation. The project is unfinished and ongoing.
 
 ## Features
 
